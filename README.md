@@ -1,9 +1,6 @@
 # Deskthority Wiki - Topre/EC Archive
 
-![image-removebg-preview (23)](https://github.com/user-attachments/assets/7be30111-cfc3-4668-9c4b-0b86e3ef0ecc)
-
-
-A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard-related pages from the now-defunct Deskthority wiki.
+A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard-related pages from the now-defunct Deskthority wiki. ![image-removebg-preview (23)](https://github.com/user-attachments/assets/7be30111-cfc3-4668-9c4b-0b86e3ef0ecc)
 
 ## About Deskthority wiki
 
