@@ -1,6 +1,6 @@
 # Deskthority Wiki - Topre/EC Archive
 
-A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard-related pages from the now-defunct Deskthority wiki. ![image-removebg-preview (23)](https://github.com/user-attachments/assets/7be30111-cfc3-4668-9c4b-0b86e3ef0ecc)
+A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard-related pages from the now-defunct Deskthority wiki.
 
 ## About Deskthority wiki
 
@@ -8,6 +8,8 @@ The Deskthority wiki was dedicated to mechanical keyboards, mice, and other huma
 The wiki was part of the Deskthority forum – users could sign in with their forum account and start editing. There was no separate registration, and it functioned as an open wiki. For discussions about the wiki, requests for higher wiki rights, or changes/add-ons to the wiki engine, users were directed to the wiki subforum.
 
 At its height (or, At the time of its archival / Before active updates ceased), it had accumulated approximately 1,929 articles, 17,571 pages, and 46,940 edits.
+
+ ![image-removebg-preview (23)](https://github.com/user-attachments/assets/7be30111-cfc3-4668-9c4b-0b86e3ef0ecc)
 
 ## About This Archive
 
