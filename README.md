@@ -6,6 +6,7 @@ A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard
 
 The Deskthority wiki was dedicated to mechanical keyboards, mice, and other human interface devices. Its main focus was on everything regarding quality (mechanical) keyboards. In the nature of a wiki, the content was frequently and constantly under construction. It invited users to share their knowledge and help create what aimed to be the best input device wiki.
 The wiki was part of the Deskthority forum – users could sign in with their forum account and start editing. There was no separate registration, and it functioned as an open wiki. For discussions about the wiki, requests for higher wiki rights, or changes/add-ons to the wiki engine, users were directed to the wiki subforum.
+
 At its height (or, At the time of its archival / Before active updates ceased), it had accumulated approximately 1,929 articles, 17,571 pages, and 46,940 edits.
 
 ## About This Archive
