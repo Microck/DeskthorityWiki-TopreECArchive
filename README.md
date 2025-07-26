@@ -2,6 +2,15 @@
 
 A preserved HTML archive of all Topre and Electrostatic Capacitive (EC) keyboard-related pages from the now-defunct Deskthority wiki.
 
+## Live Site
+
+You can browse the archived pages through the live landing page hosted on GitHub Pages:
+
+**[https://microck.github.io/DeskthorityWiki-TopreECArchive/](https://microck.github.io/DeskthorityWiki-TopreECArchive/)**
+
+<img width="1906" height="722" alt="Screenshot_1276" src="https://github.com/user-attachments/assets/8018783f-0cfa-48e9-ad67-fcd4fdf9226d" />
+
+
 ## About Deskthority wiki
 
 The Deskthority wiki was dedicated to mechanical keyboards, mice, and other human interface devices. Its main focus was on everything regarding quality (mechanical) keyboards. In the nature of a wiki, the content was frequently and constantly under construction. It invited users to share their knowledge and help create what aimed to be the best input device wiki.
